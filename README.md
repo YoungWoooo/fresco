@@ -1,4 +1,4 @@
-# Fresco
+# YoungWoo Fresco
 
 <img alt="Fresco Logo" align="right" src="docs/static/sample-images/fresco_logo.svg" width="15%" />
 
